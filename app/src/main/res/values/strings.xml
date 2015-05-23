@@ -12,4 +12,5 @@
     <string name="repeat_password_field_input">Repeat:</string>
     <string name="repeat_password_field_hint">Please repeat the password</string>
     <string name="submit_button">Submit</string>
+    <string name="random">Random</string>
 </resources>

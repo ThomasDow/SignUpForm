@@ -5,6 +5,9 @@
     android:padding="16dp"
     tools:context=".LoginActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
     <LinearLayout
         android:id="@+id/input_fields_wrapper"
